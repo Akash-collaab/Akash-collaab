@@ -2,6 +2,13 @@
 🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on New Startup Projects<br>🤝 I’m looking for help with getting Job or Internship in Software Engineer<br>🌱 I’m currently learning MERN STACK DEVELOPMENT<br>💬 Ask me about anything?<br>⚡ Fun fact I am Gym Addicted
 
 
+## Course
+Js Full Stack Developer Course from SDAC. Got overall grade 'A' in the course . 
+## Certificate link 
+https://drive.google.com/file/d/1HL17zt7gYvB5pl-EqygW_QylzzmNJdgE/view?usp=drivesdk
+
+
+
 ## 🌐 Socials:
 [![Facebook] https://www.facebook.com/ash.dilwala?mibextid=ZbWKwL 
 [![Instagram]
