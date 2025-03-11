@@ -1,4 +1,4 @@
----
+
 
 ## **🚀 About Me**  
 👋 Hi, I'm **Akash Gupta**, a passionate **Software Developer** skilled in **Java, .NET, and MERN stack**. I have hands-on experience in **building web applications** using **ASP.NET MVC, ReactJS, Node.js, and SQL**.  
@@ -8,10 +8,12 @@
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap 5  
 - **Backend:** ASP.NET MVC, Node.js, Express.js, Web API  
 - **Databases:** SQL Server, MySQL, MongoDB  
+- **ORM Tools:** Dapper  
 - **Version Control:** Git, GitHub  
-- **Tools & Frameworks:** AJAX, XAMPP, Visual Studio, Postman  
+- **Tools & Frameworks:** AJAX, XAMPP, Visual Studio  
 
 ### **📌 Featured Projects**  
+🚀 **[CRUD Using Dapper](https://github.com/Akash-collaab/CrudUsingDapper)** – A .NET Core application implementing CRUD operations using the Dapper micro-ORM for efficient database access.  
 🚀 **[MERN Blog App](https://github.com/Akash-collaab/Mern_blog_application.git)** – A full-stack blog application with CRUD operations.  
 🌱 **[Organic Vegetables Store](https://akash-collaab.github.io/php_project/)** – An e-commerce platform with admin functionality.  
 🎬 **[MovieApp](https://github.com/Akash-collaab)** – A MERN stack-based frontend project.  
@@ -34,4 +36,3 @@
 ✉️ **Email:** akashgupta84957@gmail.com  
 💼 **LinkedIn:** [Akash Gupta](https://www.linkedin.com/in/akash-gupta-b419b623a/)  
 
----
