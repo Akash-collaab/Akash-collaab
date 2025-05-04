@@ -1,38 +1,71 @@
+<h1 align="center">Hi 👋, I'm Akash Gupta</h1>
+<h3 align="center">Full Stack Developer | Java | .NET | MERN | SQL | Open to Work</h3>
 
+<p align="center">
+  <a href="mailto:akashgupta84957@gmail.com"><img src="https://img.shields.io/badge/Email-akashgupta84957@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/akashgupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Gupta-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/Akash-collaab" target="_blank"><img src="https://img.shields.io/github/followers/Akash-collaab?label=GitHub&style=social" /></a>
+</p>
 
-## **🚀 About Me**  
-👋 Hi, I'm **Akash Gupta**, a passionate **Software Developer** skilled in **Java, .NET, and MERN stack**. I have hands-on experience in **building web applications** using **ASP.NET MVC, ReactJS, Node.js, and SQL**.  
+---
 
-### **🔹 Tech Stack & Skills**  
-- **Languages:** Java, C#, JavaScript, PHP  
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap 5  
-- **Backend:** ASP.NET MVC, Node.js, Express.js, Web API  
-- **Databases:** SQL Server, MySQL, MongoDB  
-- **ORM Tools:** Dapper  
-- **Version Control:** Git, GitHub  
-- **Tools & Frameworks:** AJAX, XAMPP, Visual Studio  
+## 🚀 About Me
 
-### **📌 Featured Projects**  
-🚀 **[CRUD Using Dapper](https://github.com/Akash-collaab/CrudUsingDapper)** – A .NET Core application implementing CRUD operations using the Dapper micro-ORM for efficient database access.  
-🚀 **[MERN Blog App](https://github.com/Akash-collaab/Mern_blog_application.git)** – A full-stack blog application with CRUD operations.  
-🌱 **[Organic Vegetables Store](https://akash-collaab.github.io/php_project/)** – An e-commerce platform with admin functionality.  
-🎬 **[MovieApp](https://github.com/Akash-collaab)** – A MERN stack-based frontend project.  
+I'm a Computer Science graduate with hands-on experience in **.NET**, **Java**, and **MERN stack**.  
+Skilled in building scalable web applications, APIs, and backend systems using technologies like **ASP.NET MVC**, **ReactJS**, **Node.js**, and **SQL Server**.
 
-### **📖 Work Experience**  
-💼 **Software Development Intern** @ **Equitec, Mumbai** *(C#, ASP.NET, Web API, SQL Server)*  
-💼 **Java Development Intern** @ **Sdac Infotech, Mumbai** *(JSP, MVC, MySQL)*  
+---
 
-### **🎓 Education & Certifications**  
-🎓 **B.Sc. in Computer Science** | Thakur College of Science & Commerce, Mumbai  
-📜 **JS Full Stack Developer Training** | SDAC Infotech  
-📜 **Codecademy Courses:** JavaScript, HTML, CSS  
+## 💻 Tech Stack
 
-### **💡 Open to:**  
-- **Collaborations** on web development projects.  
-- **Job opportunities** in **Java, .NET, and ReactJS**.  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **📫 Let's Connect:**  
-🔗 **Portfolio:** [GitHub](https://github.com/Akash-collaab)  
-✉️ **Email:** akashgupta84957@gmail.com  
-💼 **LinkedIn:** [Akash Gupta](https://www.linkedin.com/in/akash-gupta-b419b623a/)  
+---
 
+## 🛠️ Projects
+
+- 🔹 **CRUD Using Dapper** – A .NET Core app with full CRUD via Dapper ORM & SQL Server.
+- 🔹 **MERN Blog App** – A full-stack blog app with React, Node, Express, MongoDB.
+- 🔹 **Organic Vegetables Store** – A mini e-commerce platform with admin features.
+- 🔹 **MovieApp** – A React frontend movie listing app using APIs.
+
+---
+
+## 💼 Internships
+
+**Software Development Intern** – *Equitec, Mumbai*  
+Tech: C#, ASP.NET, Web API, SQL Server
+
+**Java Developer Intern** – *SDAC Infotech, Mumbai*  
+Tech: Java, JSP, MVC, MySQL
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 B.Sc. in Computer Science – Thakur College of Science & Commerce  
+📜 JS Full Stack Training – SDAC Infotech  
+📜 Codecademy Courses – JavaScript, HTML, CSS
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email**: akashgupta84957@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/akashgupta](https://linkedin.com/in/akashgupta)  
+- 🧑‍💻 **GitHub**: [github.com/Akash-collaab](https://github.com/Akash-collaab)
+
+---
+
+⭐ **Looking for roles in:** Java / .NET / MERN Development  
+🤝 Open to: Full-time roles, internships, and collaborations
