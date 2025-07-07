@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 I'm a Computer Science graduate with hands-on experience in **.NET**, **Java**, and **MERN stack**.  
-Skilled in building scalable web applications, APIs, and backend systems using technologies like **ASP.NET MVC**, **ReactJS**, **Node.js**, and **SQL Server**.
+Skilled in building scalable web applications, Android apps, REST APIs, and backend systems using technologies like **ASP.NET MVC**, **ReactJS**, **Node.js**, and **SQL Server**.
 
 ---
 
@@ -27,6 +27,7 @@ Skilled in building scalable web applications, APIs, and backend systems using t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -34,10 +35,16 @@ Skilled in building scalable web applications, APIs, and backend systems using t
 
 ## 🛠️ Projects
 
+- 🔹 [**CallLogger App**](https://github.com/Akash-collaab/CallLogger-App) – Android app to log and display call details (incoming/outgoing, duration, contact name, status) in a tabular UI using Java and RecyclerView.  
+  ✨ Auto-detects call status, shows version dynamically, handles permissions, and optionally syncs to backend API.
+
 - 🔹 **CRUD Using Dapper** – A .NET Core app with full CRUD via Dapper ORM & SQL Server.
-- 🔹 **MERN Blog App** – A full-stack blog app with React, Node, Express, MongoDB.
-- 🔹 **Organic Vegetables Store** – A mini e-commerce platform with admin features.
-- 🔹 **MovieApp** – A React frontend movie listing app using APIs.
+
+- 🔹 **MERN Blog App** – A full-stack blog app with React, Node, Express, MongoDB. Includes admin login, post management, and routing.
+
+- 🔹 **Organic Vegetables Store** – A mini e-commerce platform with admin features and cart functionality.
+
+- 🔹 **MovieApp** – A React frontend movie listing app using external movie APIs.
 
 ---
 
